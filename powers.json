@@ -1,0 +1,62 @@
+[
+  {
+    "lang": "en",
+    "powers": [
+      "",
+      "thousand",
+      "million",
+      "billion",
+      "trillion",
+      "quadrillion",
+      "quintillion",
+      "sextillion",
+      "septillion",
+      "octillion",
+      "nonillion",
+      "decillion",
+      "undecillion",
+      "duodecillion",
+      "tredecillion"
+    ]
+  },
+  {
+    "lang": "ru",
+    "powers": [
+      "",
+      "тысяча",
+      "миллион",
+      "миллиард",
+      "триллион",
+      "квадриллион",
+      "квинтиллион",
+      "секстиллион",
+      "септиллион",
+      "октиллион",
+      "нониллион",
+      "дециллион",
+      "ундециллион",
+      "дуодециллион",
+      "тредециллион"
+    ]
+  },
+  {
+    "lang": "fr",
+    "powers": [
+      "",
+      "mille",
+      "million",
+      "milliard",
+      "billion",
+      "billiard",
+      "trillion",
+      "trilliard",
+      "quadrillion",
+      "quadrilliard",
+      "quintillion",
+      "quintilliard",
+      "sextillion",
+      "sextilliard",
+      "septillion"
+    ]
+  }
+]
